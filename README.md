@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tsvetelin-kitanski-07819a183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tsvetelin-kitanski-07819a183/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tsvetelin-kitanski-07819a183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tsvetelin-kitanski-07819a183/" height="30" width="40" /></a>
 <a href="https://instagram.com/cvetelinkitanski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cvetelinkitanski" height="30" width="40" /></a>
 </p>
 
